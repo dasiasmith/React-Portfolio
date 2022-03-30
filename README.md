@@ -7,6 +7,9 @@
   This is a redesign of my application using React and GitHub pages dependencies
   Portfolio can be found [Here](https://dasiasmith.github.io/React-Portfolio/)
 
+  Photo of deployed site:
+  ![Deployed](/react-portfolio/src/images/Capture.PNG)
+
   ## Table of Contents
 
   * [Installation](#installation)
