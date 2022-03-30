@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Portfolio/static/css/main.b6cf8632.css",
-    "main.js": "/React-Portfolio/static/js/main.9c3956f6.js",
+    "main.css": "/React-Portfolio/static/css/main.a4ca1807.css",
+    "main.js": "/React-Portfolio/static/js/main.a60d5096.js",
     "static/js/787.a2cb61a6.chunk.js": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/AboutMe2.png": "/React-Portfolio/static/media/AboutMe2.bc05562257a4ebfa4f99.png",
     "static/media/Resume.pdf": "/React-Portfolio/static/media/Resume.0a5d5fde3c046023820f.pdf",
     "static/media/TT-Bluescreens-Bold.ttf": "/React-Portfolio/static/media/TT-Bluescreens-Bold.59066357d25ded4350c0.ttf",
     "index.html": "/React-Portfolio/index.html",
-    "main.b6cf8632.css.map": "/React-Portfolio/static/css/main.b6cf8632.css.map",
-    "main.9c3956f6.js.map": "/React-Portfolio/static/js/main.9c3956f6.js.map",
+    "main.a4ca1807.css.map": "/React-Portfolio/static/css/main.a4ca1807.css.map",
+    "main.a60d5096.js.map": "/React-Portfolio/static/js/main.a60d5096.js.map",
     "787.a2cb61a6.chunk.js.map": "/React-Portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6cf8632.css",
-    "static/js/main.9c3956f6.js"
+    "static/css/main.a4ca1807.css",
+    "static/js/main.a60d5096.js"
   ]
 }
